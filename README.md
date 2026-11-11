@@ -1,25 +1,44 @@
-Hi! My name is Abdullah and I'm an aspiring Software Engineer currently studying at Sir Syed University of Engineering & Technology.
+# Abdullah Haleem
 
-I'm passionate about building software and recently completed a short course titled "Python Programming " This course introduced me to the world of Python and its popular web frameworks, Flask and Django.
+Junior software engineer in Karachi, Pakistan. BS Software Engineering, Sir Syed University of Engineering & Technology (graduated August 2025). Open to junior software engineer roles.
 
-This is my digital playground where I'll be documenting my learning journey, projects, and experiences. Stay tuned!
+## Featured projects
 
-**Skills:**
+### [Gully Cricket Live](https://github.com/Abdullah4589/gully-cricket-live-v1)
 
-Python 
+Phone scorer for a tape-ball match. The app keeps the scorebook in an offline SQLite outbox, and a public page follows the same match live over a WebSocket. CI runs on push and pull request.
 
-Introduction to Flask and Django
+Stack: Expo, React Native, TypeScript, FastAPI, Postgres, SQLite
 
-**What's Next:**
+![Follow page updating through a wide, a no-ball, a wicket, a chase, and undo](https://raw.githubusercontent.com/Abdullah4589/gully-cricket-live-v1/main/docs/demo.gif)
 
-Deepen my understanding of Python
-Explore specific Flask or Django projects
-Learn additional programming languages
+### [ForgeAI Studio](https://github.com/Abdullah4589/ForgeAI-Studio)
 
-Feel free to reach out!
+Self-hosted studio for generating images with open-source diffusion models and LoRA adapters.
 
-I'm always open to connecting with fellow learners and developers.
-<!---
-Abdullah4589/Abdullah4589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Stack: Next.js, TypeScript, FastAPI, Diffusers
+
+### [Habit Tracker](https://github.com/Abdullah4589/HabitTrackerApp)
+
+Mobile habit tracker for daily logs, streaks, and challenges, with cloud sync. [Live app](https://habit-tracker-app-dusky-psi.vercel.app)
+
+Stack: Expo, React Native, TypeScript, Zustand, Supabase
+
+### [Junior Job Radar](https://github.com/Abdullah4589/junior-job-radar)
+
+Daily pipeline that stores public junior and remote software jobs in a deduped catalog and summarizes skills, remote share, and pay mentions.
+
+Stack: Python, SQLite
+
+## Other projects
+
+- [MealPlanner](https://github.com/Abdullah4589/recipe-app) — weekly meal planner (Expo, Express, MongoDB). [Live](https://recipe-app-lac-five.vercel.app)
+- [RideShare PK](https://github.com/Abdullah4589/Uber-Clone) — rider, driver, and admin ride-booking prototype (React, Vite, Express, Socket.IO).
+
+## Tech
+
+TypeScript, Python, React Native, Expo, Next.js, FastAPI, Postgres, SQLite, Supabase, Diffusers
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/abdullah-haleem) · [Email](mailto:abdhal1907@gmail.com) · [GitHub](https://github.com/Abdullah4589)
