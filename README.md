@@ -4,6 +4,12 @@ Junior software engineer in Karachi, Pakistan. BS Software Engineering, Sir Syed
 
 ## Featured projects
 
+### [ForgeAI Studio](https://github.com/Abdullah4589/ForgeAI-Studio)
+
+Self-hosted studio for generating images with open-source diffusion models and LoRA adapters.
+
+Stack: Next.js, TypeScript, FastAPI, Diffusers
+
 ### [Gully Cricket Live](https://github.com/Abdullah4589/gully-cricket-live-v1)
 
 Phone scorer for a tape-ball match. The app keeps the scorebook in an offline SQLite outbox, and a public page follows the same match live over a WebSocket. CI runs on push and pull request.
@@ -11,12 +17,6 @@ Phone scorer for a tape-ball match. The app keeps the scorebook in an offline SQ
 Stack: Expo, React Native, TypeScript, FastAPI, Postgres, SQLite
 
 ![Follow page updating through a wide, a no-ball, a wicket, a chase, and undo](https://raw.githubusercontent.com/Abdullah4589/gully-cricket-live-v1/main/docs/demo.gif)
-
-### [ForgeAI Studio](https://github.com/Abdullah4589/ForgeAI-Studio)
-
-Self-hosted studio for generating images with open-source diffusion models and LoRA adapters.
-
-Stack: Next.js, TypeScript, FastAPI, Diffusers
 
 ### [Habit Tracker](https://github.com/Abdullah4589/HabitTrackerApp)
 
