@@ -10,13 +10,13 @@ Self-hosted studio for generating images with open-source diffusion models and L
 
 Stack: Next.js, TypeScript, FastAPI, Diffusers
 
+![Demo: generating an image, then the Compare, Datasets, Training, LoRAs and System pages](https://raw.githubusercontent.com/Abdullah4589/ForgeAI-Studio/main/docs/demo.gif)
+
 ### [Gully Cricket Live](https://github.com/Abdullah4589/gully-cricket-live-v1)
 
 Phone scorer for a tape-ball match. The app keeps the scorebook in an offline SQLite outbox, and a public page follows the same match live over a WebSocket. CI runs on push and pull request.
 
 Stack: Expo, React Native, TypeScript, FastAPI, Postgres, SQLite
-
-![Follow page updating through a wide, a no-ball, a wicket, a chase, and undo](https://raw.githubusercontent.com/Abdullah4589/gully-cricket-live-v1/main/docs/demo.gif)
 
 ### [Habit Tracker](https://github.com/Abdullah4589/HabitTrackerApp)
 
